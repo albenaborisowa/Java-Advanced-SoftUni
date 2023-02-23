@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Defining Classes/Defining Classes.iml" filepath="$PROJECT_DIR$/Defining Classes/Defining Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsExe/GenericsExe.iml" filepath="$PROJECT_DIR$/GenericsExe/GenericsExe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces and Abstraction/Interfaces and Abstraction.iml" filepath="$PROJECT_DIR$/Interfaces and Abstraction/Interfaces and Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratorsAndComparatorsExe/IteratorsAndComparatorsExe.iml" filepath="$PROJECT_DIR$/IteratorsAndComparatorsExe/IteratorsAndComparatorsExe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAdvancedExamTests/JavaAdvancedExamTests.iml" filepath="$PROJECT_DIR$/JavaAdvancedExamTests/JavaAdvancedExamTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task 3 ExamPrep/task 3 ExamPrep.iml" filepath="$PROJECT_DIR$/task 3 ExamPrep/task 3 ExamPrep.iml" />
+    </modules>
+  </component>
+</project>
